@@ -1,0 +1,16 @@
+body{
+    background-color: #1b201b;
+    color: #ffdd00;
+    font-family: "Cinzel", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: #a08b00;
+    color: white;
+    padding: 5px;
+}
